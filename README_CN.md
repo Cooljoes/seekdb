@@ -1,3 +1,7 @@
+> **Cooljoes 维护分支仓库** · 上游：[oceanbase/seekdb](https://github.com/oceanbase/seekdb)
+>
+> 本仓库用于开发环境诊断、复现记录和后续的小范围维护。个人维护入口、成果归属和验证流程见[维护说明](MAINTENANCE.md)；下方为上游项目的产品介绍。
+
 <div align="center">
 
 <picture>

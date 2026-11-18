@@ -1,3 +1,7 @@
+> **Cooljoes' maintenance fork** · Upstream: [oceanbase/seekdb](https://github.com/oceanbase/seekdb)
+>
+> Start with the [fork maintenance guide](MAINTENANCE.md) for the contribution scope, environment report, and validation workflow. The product documentation below is maintained by the upstream project.
+
 <div align="center">
 
 <picture>
